@@ -1,0 +1,6 @@
+# 默认忽略的文件
+.venv
+.idea
+cookies.json
+main.spec
+qrcode.png
